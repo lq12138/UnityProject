@@ -1,0 +1,18 @@
+{
+"Classdata":{
+			"people":[
+							{"id":1001,"name":"张一","age":11},
+							{"id":1002,"name":"张二","age":12},
+							{"id":1003,"name":"张三","age":13},
+							{"id":1004,"name":"张四","age":14}],
+			"equip":[
+							{"equipId":2001,"equipName":"树枝","atk":10},
+							{"equipId":2002,"equipName":"棒子","atk":500},
+							{"equipId":2003,"equipName":"铁棒子","atk":1000}],
+			"skill":[
+							{"skillId":2001,"skillName":"哈撒给","describe":"往前吹出一道风"},
+							{"skillId":2002,"skillName":"德玛西亚正义","describe":"斩杀一名敌方英雄"},
+							{"skillId":2003,"skillName":"魔法水晶剑","describe":"向前射出一个可以眩晕的魔法"}]
+			}
+			
+}
